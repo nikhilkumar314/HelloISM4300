@@ -10,6 +10,8 @@ namespace HelloISM4300
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+            Console.WriteLine("I made a change"); 
         }
     }
 }
